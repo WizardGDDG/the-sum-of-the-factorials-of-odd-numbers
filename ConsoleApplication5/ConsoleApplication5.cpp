@@ -6,7 +6,7 @@ int main()
 	unsigned int start_time = clock();
 	
 	setlocale(LC_ALL, "rus");
-    int S = 0;
+    	int S = 0;
 	int n = 20;
 	int f = 1;
 	int a = 20;
